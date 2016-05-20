@@ -29,7 +29,6 @@
         require_once dirname(__FILE__) . '/' . $fileToInclude;
     });
 
-
     class GBPDP_Poisson extends GBPDP_Distribution
     {
         public $lambda;
