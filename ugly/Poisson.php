@@ -20,6 +20,7 @@
      * -------------
      * Implementation by Frank Wikström.
      */
+
     $filesToInclude = [
         'Distribution.php',
         '/Accessories/GammaFunction.php',
